@@ -18,4 +18,4 @@ is for your network (if you use the second URL, all devices from your network ca
 - Don't forget to change the URLs.
 - Also, don't forget to change the connection string in "appsettings.json".
 
-If you have any inquiry, feel free to pull issues.
+If you have any inquiry, feel free to ask in issues section.
