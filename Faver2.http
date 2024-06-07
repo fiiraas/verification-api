@@ -1,0 +1,36 @@
+@Faver2_HostAddress = https://localhost:7052
+
+GET {{Faver2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Faver2_HostAddress}}/weatherforecast
+
+###
+
+GET {{Faver2_HostAddress}}/api/faver
+
+###
+
+POST {{Faver2_HostAddress}}/api/faver
+Content-Type: application/json
+
+{
+  //UserProfiles
+}
+
+###
+
+POST {{Faver2_HostAddress}}/api/faver
+Content-Type: application/json
+
+{
+  //UserProfiles
+}
+
+###
+
+GET {{Faver2_HostAddress}}/api/faver
+
+###

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\FaverApiPublish</_PublishTargetUrl>
+    <History>True|2024-05-30T09:04:36.3671287Z||;True|2024-05-30T17:02:02.3064678+08:00||;True|2024-05-29T17:04:05.9858223+08:00||;True|2024-05-29T16:37:25.8095933+08:00||;True|2024-05-29T16:28:15.7801733+08:00||;True|2024-05-29T16:19:30.9582828+08:00||;True|2024-05-29T16:17:37.3957901+08:00||;True|2024-05-29T16:12:44.7624284+08:00||;True|2024-05-29T16:11:11.3632075+08:00||;True|2024-05-29T16:09:38.0176918+08:00||;True|2024-05-29T16:07:28.7632136+08:00||;True|2024-05-29T16:05:26.6423912+08:00||;False|2024-05-29T16:04:31.1974180+08:00||;False|2024-05-29T16:04:06.6403191+08:00||;True|2024-05-29T15:59:46.1714508+08:00||;True|2024-05-29T15:56:36.8557139+08:00||;True|2024-05-29T15:56:08.8179614+08:00||;True|2024-05-29T15:49:49.8385223+08:00||;True|2024-05-29T15:47:13.4596739+08:00||;True|2024-05-29T15:44:18.4872876+08:00||;True|2024-05-29T15:43:41.5734081+08:00||;True|2024-05-29T15:43:20.9722753+08:00||;True|2024-05-29T15:36:45.0273933+08:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=localhost%3bDatabase=Faver2%3bTrusted_Connection=True%3bMultipleActiveResultSets=true%3bEncrypt=false%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
